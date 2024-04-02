@@ -1,12 +1,15 @@
 # BabyTools
 
-BabyTools is a Python project that provides tools for degenerates like you who have trash internet
+BabyTools is a Python project that provides tools for degenerates like you who have trash internet.
+
+I know this defeats the purpose but you can use the app here:
+ [Cool Tools 4 U](https://cooltools4u.streamlit.app/)
 
 ## Features
 
-- Feature 1: Description of feature 1.
-- Feature 2: Description of feature 2.
-- Feature 3: Description of feature 3.
+- PDF Combiner: Combine your PDF.
+- QR Code Generator: Make QR code from URL
+- URL SHortener: Shorten your URLS using TinyURL
 
 ## Installation
 
