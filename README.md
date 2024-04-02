@@ -5,6 +5,8 @@ BabyTools is a Python project that provides tools for degenerates like you who h
 I know this defeats the purpose but you can use the app here:
  [Cool Tools 4 U](https://cooltools4u.streamlit.app/)
 
+ This app is currently under development, more features shall come soon if the dev survives his midterm exams
+
 ## Features
 
 - PDF Combiner: Combine your PDF.
