@@ -1,0 +1,5 @@
+qrcode
+pillow
+pyshorteners
+PyPDF2
+streamlit
