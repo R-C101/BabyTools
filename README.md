@@ -12,7 +12,7 @@ I know this defeats the purpose but you can use the app here:
 - PDF Combiner: Combine your PDF.
 - QR Code Generator: Make QR code from URL
 - URL Shortener: Shorten your URLS using TinyURL
-
+- Image Resizer: Resize and add padding to your images
 ## Installation
 
 To use BabyTools, follow these steps:
