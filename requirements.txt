@@ -6,3 +6,4 @@ streamlit
 docx
 transformers
 tensorflow
+tf-keras
