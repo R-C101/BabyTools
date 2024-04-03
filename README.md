@@ -11,7 +11,7 @@ I know this defeats the purpose but you can use the app here:
 
 - PDF Combiner: Combine your PDF.
 - QR Code Generator: Make QR code from URL
-- URL SHortener: Shorten your URLS using TinyURL
+- URL Shortener: Shorten your URLS using TinyURL
 
 ## Installation
 
