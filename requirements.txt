@@ -3,3 +3,4 @@ pillow
 pyshorteners
 PyPDF2
 streamlit
+docx
