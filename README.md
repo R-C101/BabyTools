@@ -10,6 +10,7 @@ I know this defeats the purpose but you can use the app here:
 ## Features
 
 - PDF Combiner: Combine your PDF.
+- AI PDF Reader: Answers questions from your PDF.
 - QR Code Generator: Make QR code from URL
 - URL Shortener: Shorten your URLS using TinyURL
 - Image Resizer: Resize and add padding to your images

@@ -4,3 +4,4 @@ pyshorteners
 PyPDF2
 streamlit
 docx
+transformers
