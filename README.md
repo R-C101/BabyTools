@@ -14,6 +14,7 @@ I know this defeats the purpose but you can use the app here:
 - QR Code Generator: Make QR code from URL
 - URL Shortener: Shorten your URLS using TinyURL
 - Image Resizer: Resize and add padding to your images
+- Convert Currencies: Supports 20+ currencies with live forex data
 ## Installation
 
 To use BabyTools, follow these steps:
